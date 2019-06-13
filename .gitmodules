@@ -1,0 +1,6 @@
+[submodule "parserasgeo"]
+	path = parserasgeo
+	url = https://github.com/danhamill/parserasgeo.git
+[submodule "rascontrol"]
+	path = rascontrol
+	url = https://github.com/danhamill/rascontrol.git

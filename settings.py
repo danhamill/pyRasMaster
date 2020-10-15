@@ -10,5 +10,5 @@ use_cache = False
 log_file = False
 log_console = False
 log_level = lg.INFO
-log_name = 'test_repo_fun'
-log_filename = 'test_repo_fun'
+log_name = 'pyRasMaster'
+log_filename = 'pyRasMaster'
